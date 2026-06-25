@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/nupurlade01/leetcode_progress/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nupurlade01/leetcode_progress/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/nupurlade01/leetcode_progress/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nupurlade01/leetcode_progress/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
