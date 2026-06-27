@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nupurlade01/leetcode_progress/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/nupurlade01/leetcode_progress/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/nupurlade01/leetcode_progress/tree/master/0128-longest-consecutive-sequence) |
+| [0704-binary-search](https://github.com/nupurlade01/leetcode_progress/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nupurlade01/leetcode_progress/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nupurlade01/leetcode_progress/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/nupurlade01/leetcode_progress/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
